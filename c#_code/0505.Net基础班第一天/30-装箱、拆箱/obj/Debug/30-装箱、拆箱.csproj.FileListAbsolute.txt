@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\30-装箱、拆箱\bin\Debug\30-装箱、拆箱.exe.config
+E:\code\c#_code\0505.Net基础班第一天\30-装箱、拆箱\bin\Debug\30-装箱、拆箱.exe
+E:\code\c#_code\0505.Net基础班第一天\30-装箱、拆箱\bin\Debug\30-装箱、拆箱.pdb
+E:\code\c#_code\0505.Net基础班第一天\30-装箱、拆箱\obj\Debug\30-装箱、拆箱.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\30-装箱、拆箱\obj\Debug\30-装箱、拆箱.exe
+E:\code\c#_code\0505.Net基础班第一天\30-装箱、拆箱\obj\Debug\30-装箱、拆箱.pdb

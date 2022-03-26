@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\20-引用类型和值类型\bin\Debug\20-引用类型和值类型.exe.config
+E:\code\c#_code\0505.Net基础班第一天\20-引用类型和值类型\bin\Debug\20-引用类型和值类型.exe
+E:\code\c#_code\0505.Net基础班第一天\20-引用类型和值类型\bin\Debug\20-引用类型和值类型.pdb
+E:\code\c#_code\0505.Net基础班第一天\20-引用类型和值类型\obj\Debug\20-引用类型和值类型.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\20-引用类型和值类型\obj\Debug\20-引用类型和值类型.exe
+E:\code\c#_code\0505.Net基础班第一天\20-引用类型和值类型\obj\Debug\20-引用类型和值类型.pdb

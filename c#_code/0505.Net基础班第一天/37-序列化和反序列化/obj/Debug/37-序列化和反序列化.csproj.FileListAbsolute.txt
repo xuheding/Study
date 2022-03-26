@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\37-序列化和反序列化\bin\Debug\37-序列化和反序列化.exe.config
+E:\code\c#_code\0505.Net基础班第一天\37-序列化和反序列化\bin\Debug\37-序列化和反序列化.exe
+E:\code\c#_code\0505.Net基础班第一天\37-序列化和反序列化\bin\Debug\37-序列化和反序列化.pdb
+E:\code\c#_code\0505.Net基础班第一天\37-序列化和反序列化\obj\Debug\37-序列化和反序列化.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\37-序列化和反序列化\obj\Debug\37-序列化和反序列化.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\37-序列化和反序列化\obj\Debug\37-序列化和反序列化.exe
+E:\code\c#_code\0505.Net基础班第一天\37-序列化和反序列化\obj\Debug\37-序列化和反序列化.pdb

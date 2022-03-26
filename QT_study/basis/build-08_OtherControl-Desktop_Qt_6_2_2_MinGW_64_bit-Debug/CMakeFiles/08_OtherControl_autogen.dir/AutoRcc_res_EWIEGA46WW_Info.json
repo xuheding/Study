@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "E:/code/QT_study/build-08_OtherControl-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/08_OtherControl_autogen",
+	"CMAKE_BINARY_DIR" : "E:/code/QT_study/build-08_OtherControl-Desktop_Qt_6_2_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/code/QT_study/build-08_OtherControl-Desktop_Qt_6_2_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/code/QT_study/08_OtherControl",
+	"CMAKE_SOURCE_DIR" : "E:/code/QT_study/08_OtherControl",
+	"INCLUDE_DIR" : "E:/code/QT_study/build-08_OtherControl-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/08_OtherControl_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/code/QT_study/08_OtherControl/image/2.gif",
+		"E:/code/QT_study/08_OtherControl/image/1.jpg",
+		"E:/code/QT_study/08_OtherControl/image/1.png"
+	],
+	"LOCK_FILE" : "E:/code/QT_study/build-08_OtherControl-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/08_OtherControl_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/QT/6.2.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/code/QT_study/build-08_OtherControl-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/08_OtherControl_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/code/QT_study/08_OtherControl/res.qrc",
+	"VERBOSITY" : 0
+}

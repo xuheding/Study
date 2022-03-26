@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "07_TableWidget",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "07_TableWidget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_TableWidget-Debug-79af48b3eb11031845d9.json",
+					"name" : "07_TableWidget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_TableWidget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_TableWidget_autogen-Debug-ddc2fdf2f8e9fc081c31.json",
+					"name" : "07_TableWidget_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_TableWidget_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_TableWidget_autogen_timestamp_deps-Debug-07b481af2593d6fe8c73.json",
+					"name" : "07_TableWidget_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/code/QT_study/build-07_TableWidget-Desktop_Qt_6_2_2_MinGW_64_bit-Debug",
+		"source" : "E:/code/QT_study/07_TableWidget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

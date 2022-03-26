@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\36-值传递和引用传递\bin\Debug\36-值传递和引用传递.exe.config
+E:\code\c#_code\0505.Net基础班第一天\36-值传递和引用传递\bin\Debug\36-值传递和引用传递.exe
+E:\code\c#_code\0505.Net基础班第一天\36-值传递和引用传递\bin\Debug\36-值传递和引用传递.pdb
+E:\code\c#_code\0505.Net基础班第一天\36-值传递和引用传递\obj\Debug\36-值传递和引用传递.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\36-值传递和引用传递\obj\Debug\36-值传递和引用传递.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\36-值传递和引用传递\obj\Debug\36-值传递和引用传递.exe
+E:\code\c#_code\0505.Net基础班第一天\36-值传递和引用传递\obj\Debug\36-值传递和引用传递.pdb

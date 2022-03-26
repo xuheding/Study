@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_QtEvent",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02_QtEvent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_QtEvent-Debug-861ea52d99f82bc5d188.json",
+					"name" : "02_QtEvent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_QtEvent_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_QtEvent_autogen-Debug-a1bb54f23b02e6afaae8.json",
+					"name" : "02_QtEvent_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_QtEvent_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_QtEvent_autogen_timestamp_deps-Debug-e3554a0218f124ab59a1.json",
+					"name" : "02_QtEvent_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/code/QT_study/promote/build-02_QtEvent-Desktop_Qt_6_2_2_MinGW_64_bit-Debug",
+		"source" : "E:/code/QT_study/promote/02_QtEvent"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

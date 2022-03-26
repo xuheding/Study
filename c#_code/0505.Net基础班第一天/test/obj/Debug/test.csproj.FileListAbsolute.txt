@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\test\bin\Debug\test.exe.config
+E:\code\c#_code\0505.Net基础班第一天\test\bin\Debug\test.exe
+E:\code\c#_code\0505.Net基础班第一天\test\bin\Debug\test.pdb
+E:\code\c#_code\0505.Net基础班第一天\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\test\obj\Debug\test.exe
+E:\code\c#_code\0505.Net基础班第一天\test\obj\Debug\test.pdb

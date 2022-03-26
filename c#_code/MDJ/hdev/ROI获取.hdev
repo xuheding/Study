@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_image(Image,'D:/LabWork/Brick/dataset/2019_10_24/Image_20190926102120238.jpg')</l>
+<c></c>
+<l>median_image (Image, ImageMedian, 'circle', 10, 'mirrored')</l>
+<c></c>
+<c></c>
+<l>get_image_size (ImageMedian, Width, Height)</l>
+<l>dev_open_window (0, 0, 800, 800, 'black', WindowHandle)</l>
+<l>dev_display (ImageMedian)</l>
+<c></c>
+<c></c>
+<l>draw_rectangle1 (WindowHandle, Row1, Column1, Row2, Column2)</l>
+<l>gen_rectangle1 (ho_Rectangle, Row1, Column1, Row2, Column2)</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_image(Image,'D:/LabWork/Brick/dataset/2019_10_24/Image_20190926102120238.jpg')</l>
+<c></c>
+<l>median_image (Image, ImageMedian, 'circle', 10, 'mirrored')</l>
+<c></c>
+<c></c>
+<l>get_image_size (ImageMedian, Width, Height)</l>
+<l>dev_open_window (0, 0, 800, 800, 'black', WindowHandle)</l>
+<l>dev_display (ImageMedian)</l>
+<c></c>
+<c></c>
+<l>draw_rectangle1 (WindowHandle, Row1, Column1, Row2, Column2)</l>
+<c></c>
+<l>gen_rectangle1(Rectangle,Row1, Column1, Row2, Column2)</l>
+<c></c>
+<c></c>
+<c></c>
+<l>reduce_domain (ImageMedian, Rectangle, ImageReduced)</l>
+<c></c>
+<c></c>
+<l>area_center (Rectangle, Area, Row1, Column1)</l>
+<c></c>
+<c></c>
+<l>create_scaled_shape_model (ImageReduced, 5, rad(-180), rad(360), 'auto', 0.5, 1.5, 'auto', 'auto', 'ignore_global_polarity', 'auto', 'auto', ModelID)</l>
+<l>inspect_shape_model (ImageReduced, ModelImages, ModelRegions, 4, 20)</l>
+<l>get_shape_model_params (ModelID, NumLevels, AngleStart, AngleExtent, AngleStep, ScaleMin, ScaleMax, ScaleStep, Metric, MinContrast)</l>
+<l>get_shape_model_contours (ModelContours, ModelID, 1)</l>
+<c></c>
+<c></c>
+<l>read_image(testImage,'D:/LabWork/Brick/dataset/2019_10_23/Image_2.bmp')</l>
+<l>median_image (testImage, testImageMedian, 'circle', 10, 'mirrored')</l>
+<l>find_scaled_shape_model (testImageMedian, ModelID, rad(-180), rad(360), 0.8, 1.2, 0.4, 5, 0.5, 'least_squares', 5, 0.8, Row2, Column2, Angle, Scale, Score)</l>
+<l>copy_image(testImageMedian, DupImage)</l>
+<c></c>
+<l>for I := 0 to |Score| - 1 by 1</l>
+<c>    *生成一个单位矩阵</c>
+<l>    hom_mat2d_identity (HomMat2DIdentity)</l>
+<c>    *平移</c>
+<l>    hom_mat2d_translate (HomMat2DIdentity, Row2[I], Column2[I], HomMat2DTranslate)</l>
+<c>    *旋转</c>
+<l>    hom_mat2d_rotate (HomMat2DTranslate, Angle[I], Row2[I], Column2[I], HomMat2DRotate)</l>
+<c>    * 当前图形窗口右键菜单设置:</c>
+<c></c>
+<c>    * 图形窗口右键菜单设置结束</c>
+<c>    *放缩，得到最终的仿射变换矩阵</c>
+<l>    hom_mat2d_scale (HomMat2DRotate, Scale[I], Scale[I], Row2[I], Column2[I], HomMat2DScale)</l>
+<c>    *仿射变换</c>
+<l>    affine_trans_contour_xld (ModelContours, ModelTrans, HomMat2DScale)</l>
+<c>    </c>
+<l>    union_adjacent_contours_xld (ModelTrans, UnionContours, 80, 1, 'attr_keep')</l>
+<l>    gen_region_contour_xld(UnionContours, Region, 'margin')</l>
+<l>    dilation_circle(Region, Region, 5)</l>
+<l>    paint_region(Region,DupImage, DupImage, 255, 'fill')</l>
+<c>    </c>
+<c>    </c>
+<l>endfor</l>
+<l>compose3(testImageMedian,DupImage,testImageMedian,showImage)</l>
+<l>write_image(showImage,'bmp',0,'')</l>
+<l>get_image_pointer3(showImage, PointerRed, PointerGreen, PointerBlue, Type, Width1, Height1)</l>
+<l>gen_image3(ImageRGB, 'byte', Width1, Height1, PointerRed, PointerGreen, PointerBlue)</l>
+<c>    </c>
+<c>    </c>
+<c>    </c>
+<l>    dev_display (showImage)</l>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

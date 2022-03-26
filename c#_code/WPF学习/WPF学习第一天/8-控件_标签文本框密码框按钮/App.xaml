@@ -1,0 +1,9 @@
+﻿<Application x:Class="_8_控件_标签文本框密码框按钮.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_8_控件_标签文本框密码框按钮"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

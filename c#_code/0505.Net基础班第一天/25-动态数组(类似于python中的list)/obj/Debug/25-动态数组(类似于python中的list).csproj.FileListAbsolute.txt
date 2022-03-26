@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\25-动态数组(类似于python中的list)\bin\Debug\25-动态数组(类似于python中的list).exe.config
+E:\code\c#_code\0505.Net基础班第一天\25-动态数组(类似于python中的list)\bin\Debug\25-动态数组(类似于python中的list).exe
+E:\code\c#_code\0505.Net基础班第一天\25-动态数组(类似于python中的list)\bin\Debug\25-动态数组(类似于python中的list).pdb
+E:\code\c#_code\0505.Net基础班第一天\25-动态数组(类似于python中的list)\obj\Debug\25-动态数组(类似于python中的list).csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\25-动态数组(类似于python中的list)\obj\Debug\25-动态数组(类似于python中的list).csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\25-动态数组(类似于python中的list)\obj\Debug\25-动态数组(类似于python中的list).exe
+E:\code\c#_code\0505.Net基础班第一天\25-动态数组(类似于python中的list)\obj\Debug\25-动态数组(类似于python中的list).pdb

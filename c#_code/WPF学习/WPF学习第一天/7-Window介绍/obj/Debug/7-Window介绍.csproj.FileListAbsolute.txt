@@ -1,0 +1,14 @@
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\bin\Debug\7-Window介绍.exe.config
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\bin\Debug\7-Window介绍.exe
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\bin\Debug\7-Window介绍.pdb
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\MainWindow.g.cs
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\App.g.cs
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\7-Window介绍_MarkupCompile.cache
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\7-Window介绍_MarkupCompile.lref
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\MainWindow.baml
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\7-Window介绍.g.resources
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\_7_Window介绍.Properties.Resources.resources
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\7-Window介绍.csproj.GenerateResource.cache
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\7-Window介绍.csproj.CoreCompileInputs.cache
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\7-Window介绍.exe
+E:\code\c#_code\WPF学习\WPF学习第一天\7-Window介绍\obj\Debug\7-Window介绍.pdb

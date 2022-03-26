@@ -1,0 +1,5 @@
+E:/code/QT_study/build-02_QtSource-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/02_QtSource.dir
+E:/code/QT_study/build-02_QtSource-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/code/QT_study/build-02_QtSource-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/code/QT_study/build-02_QtSource-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/02_QtSource_autogen_timestamp_deps.dir
+E:/code/QT_study/build-02_QtSource-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/02_QtSource_autogen.dir

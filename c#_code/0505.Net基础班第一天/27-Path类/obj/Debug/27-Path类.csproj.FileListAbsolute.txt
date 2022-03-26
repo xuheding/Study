@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\27-Path类\bin\Debug\27-Path类.exe.config
+E:\code\c#_code\0505.Net基础班第一天\27-Path类\bin\Debug\27-Path类.exe
+E:\code\c#_code\0505.Net基础班第一天\27-Path类\bin\Debug\27-Path类.pdb
+E:\code\c#_code\0505.Net基础班第一天\27-Path类\obj\Debug\27-Path类.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\27-Path类\obj\Debug\27-Path类.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\27-Path类\obj\Debug\27-Path类.exe
+E:\code\c#_code\0505.Net基础班第一天\27-Path类\obj\Debug\27-Path类.pdb

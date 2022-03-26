@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\42-显示实现接口\bin\Debug\42-显示实现接口.exe.config
+E:\code\c#_code\0505.Net基础班第一天\42-显示实现接口\bin\Debug\42-显示实现接口.exe
+E:\code\c#_code\0505.Net基础班第一天\42-显示实现接口\bin\Debug\42-显示实现接口.pdb
+E:\code\c#_code\0505.Net基础班第一天\42-显示实现接口\obj\Debug\42-显示实现接口.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\42-显示实现接口\obj\Debug\42-显示实现接口.exe
+E:\code\c#_code\0505.Net基础班第一天\42-显示实现接口\obj\Debug\42-显示实现接口.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2-窗口数据模型封装/1.0.0": {
+        "runtime": {
+          "2-窗口数据模型封装.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2-窗口数据模型封装/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

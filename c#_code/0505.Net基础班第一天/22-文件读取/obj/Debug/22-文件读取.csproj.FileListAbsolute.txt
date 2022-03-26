@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\22-文件读取\bin\Debug\22-文件读取.exe.config
+E:\code\c#_code\0505.Net基础班第一天\22-文件读取\bin\Debug\22-文件读取.exe
+E:\code\c#_code\0505.Net基础班第一天\22-文件读取\bin\Debug\22-文件读取.pdb
+E:\code\c#_code\0505.Net基础班第一天\22-文件读取\obj\Debug\22-文件读取.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\22-文件读取\obj\Debug\22-文件读取.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\22-文件读取\obj\Debug\22-文件读取.exe
+E:\code\c#_code\0505.Net基础班第一天\22-文件读取\obj\Debug\22-文件读取.pdb

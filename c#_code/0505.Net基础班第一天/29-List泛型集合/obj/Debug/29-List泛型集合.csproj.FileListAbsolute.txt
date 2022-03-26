@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\29-List泛型集合\bin\Debug\29-List泛型集合.exe.config
+E:\code\c#_code\0505.Net基础班第一天\29-List泛型集合\bin\Debug\29-List泛型集合.exe
+E:\code\c#_code\0505.Net基础班第一天\29-List泛型集合\bin\Debug\29-List泛型集合.pdb
+E:\code\c#_code\0505.Net基础班第一天\29-List泛型集合\obj\Debug\29-List泛型集合.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\29-List泛型集合\obj\Debug\29-List泛型集合.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\29-List泛型集合\obj\Debug\29-List泛型集合.exe
+E:\code\c#_code\0505.Net基础班第一天\29-List泛型集合\obj\Debug\29-List泛型集合.pdb

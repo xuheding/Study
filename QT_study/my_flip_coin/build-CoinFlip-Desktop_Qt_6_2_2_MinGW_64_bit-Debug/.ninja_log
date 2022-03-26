@@ -1,0 +1,24 @@
+# ninja log v5
+5	198	6656008827664296	CoinFlip_autogen/timestamp	da99fc1b3299930c
+894	1077	6654239500961196	CoinFlip_autogen/EWIEGA46WW/qrc_res.cpp	6946dab42c0d478
+894	1077	6654239500961196	E:/code/QT_study/my_flip_coin/build-CoinFlip-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CoinFlip_autogen/EWIEGA46WW/qrc_res.cpp	6946dab42c0d478
+5	198	6656008827664296	CoinFlip_autogen/mocs_compilation.cpp	da99fc1b3299930c
+5	198	6656008827664296	E:/code/QT_study/my_flip_coin/build-CoinFlip-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CoinFlip_autogen/timestamp	da99fc1b3299930c
+5	198	6656008827664296	E:/code/QT_study/my_flip_coin/build-CoinFlip-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CoinFlip_autogen/mocs_compilation.cpp	da99fc1b3299930c
+882	3688	6655997330315035	CMakeFiles/CoinFlip.dir/mypushbutton.cpp.obj	4e942435c99ea51d
+568	2344	6656000788102231	CMakeFiles/CoinFlip.dir/main.cpp.obj	8505be35574658fa
+928	4793	6655997341506535	CMakeFiles/CoinFlip.dir/CoinFlip_autogen/EWIEGA46WW/qrc_res.cpp.obj	959825bcc96be09f
+202	2061	6656008846247809	CMakeFiles/CoinFlip.dir/mainscene.cpp.obj	ec3b3904a0f51c8a
+908	4297	6655997336524063	CMakeFiles/CoinFlip.dir/playscene.cpp.obj	6707a7bdcc49ea34
+874	3983	6655997333411868	CMakeFiles/CoinFlip.dir/chooselevelscene.cpp.obj	309b35a20985ec5c
+561	2726	6656000791875376	CMakeFiles/CoinFlip.dir/CoinFlip_autogen/mocs_compilation.cpp.obj	69a44428e6afd68f
+2061	2526	6656008850893874	CoinFlip.exe	f8ae8b1f0bc24a24
+898	3632	6655997329907351	CMakeFiles/CoinFlip.dir/mycoin.cpp.obj	44fa1f575bcd058c
+916	3724	6655997330825450	CMakeFiles/CoinFlip.dir/dataconfig.cpp.obj	ff0210c090e567cb
+2	573	6656012890380477	build.ninja	cd5a1c50022da57
+4	232	6656016231110515	CoinFlip_autogen/timestamp	da99fc1b3299930c
+4	232	6656016231110515	CoinFlip_autogen/mocs_compilation.cpp	da99fc1b3299930c
+4	232	6656016231110515	E:/code/QT_study/my_flip_coin/build-CoinFlip-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CoinFlip_autogen/timestamp	da99fc1b3299930c
+4	232	6656016231110515	E:/code/QT_study/my_flip_coin/build-CoinFlip-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CoinFlip_autogen/mocs_compilation.cpp	da99fc1b3299930c
+236	1971	6656016248409364	CMakeFiles/CoinFlip.dir/mainscene.cpp.obj	ec3b3904a0f51c8a
+1971	2418	6656016252885416	CoinFlip.exe	f8ae8b1f0bc24a24

@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\07-异常捕获\bin\Debug\07-异常捕获.exe.config
+E:\code\c#_code\0505.Net基础班第一天\07-异常捕获\bin\Debug\07-异常捕获.exe
+E:\code\c#_code\0505.Net基础班第一天\07-异常捕获\bin\Debug\07-异常捕获.pdb
+E:\code\c#_code\0505.Net基础班第一天\07-异常捕获\obj\Debug\07-异常捕获.csprojAssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\07-异常捕获\obj\Debug\07-异常捕获.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\07-异常捕获\obj\Debug\07-异常捕获.exe
+E:\code\c#_code\0505.Net基础班第一天\07-异常捕获\obj\Debug\07-异常捕获.pdb

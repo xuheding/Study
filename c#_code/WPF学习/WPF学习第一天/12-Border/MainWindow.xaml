@@ -1,0 +1,21 @@
+﻿<Window x:Class="_12_Border.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_12_Border"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--边框 围绕在其他元素周围 或 背景色-->
+        <!--CornerRadius表示边框的圆度,Padding表示内边距，在内边距里面的东西都显示不出来-->
+        <!--Border里面只能有一个子元素,如果要在Border里面放多个控件，可以在Border里面放一个布局面板，而布局面板里可以放多个元素-->
+        <!--应用：布局面板一起使用，作为任意控件的边框显示-->
+        <Border BorderBrush="Red" BorderThickness="1" CornerRadius="15" Padding="3" Background="LightYellow"
+                HorizontalAlignment="Left" Height="40" Margin="295,130,0,0" VerticalAlignment="Top" Width="137">
+            <Label HorizontalAlignment="Center" VerticalAlignment="Center" Content="用户名" Margin="0,0,0,0"/>
+
+        </Border>
+
+    </Grid>
+</Window>

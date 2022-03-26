@@ -1,0 +1,28 @@
+﻿<Window x:Class="_7_Window介绍.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_7_Window介绍"
+        mc:Ignorable="d"
+     
+        Title="登入页面" Height="450" Width="800" ShowInTaskbar="True" WindowStartupLocation="CenterScreen"
+        WindowState="Maximized" Topmost="True" Icon="img/1.jpg" Loaded="WindowLoaded" 
+        >
+    <!--如果ShowInTaskbar="True"在任务栏可以看见窗体 -->
+    <!--如果WindowStartupLocation="CenterScreen" 表示刚开始窗口在桌面的正中央 -->
+    <!-- WindowState是来设置窗口的最大化最小化或正常大小（表示显示的模式）-->
+    <!-- Icon 用来设置窗口的图标-->
+    <!--Loaded 表示加载窗体运行的程序，会在MainWindow自动生成加载的方法，一般可以写一些初始化-->
+    <!-- 还有一些常用的操作如Closing(窗体销毁的时候调用)，鼠标左键右键等操作-->
+    
+    <!--剩下的一些操作可以，去选中window 选择属性  右上角的闪电按钮(选择元素的事件处理程序)-->
+    
+    
+    <!--网格 行和列 布局控件  Grid就是Window的Content(内容控件)  -->
+    <!--Window-ContentControl 内容控件只能承载一个Content -->
+    <!--Topmost 表示设置窗口置顶-->
+    <Grid>
+        
+    </Grid>
+</Window>

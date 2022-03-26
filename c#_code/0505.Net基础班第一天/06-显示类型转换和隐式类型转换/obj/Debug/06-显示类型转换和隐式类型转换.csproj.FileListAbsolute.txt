@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\06-显示类型转换和隐式类型转换\bin\Debug\06-显示类型转换和隐式类型转换.exe.config
+E:\code\c#_code\0505.Net基础班第一天\06-显示类型转换和隐式类型转换\bin\Debug\06-显示类型转换和隐式类型转换.exe
+E:\code\c#_code\0505.Net基础班第一天\06-显示类型转换和隐式类型转换\bin\Debug\06-显示类型转换和隐式类型转换.pdb
+E:\code\c#_code\0505.Net基础班第一天\06-显示类型转换和隐式类型转换\obj\Debug\06-显示类型转换和隐式类型转换.csprojAssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\06-显示类型转换和隐式类型转换\obj\Debug\06-显示类型转换和隐式类型转换.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\06-显示类型转换和隐式类型转换\obj\Debug\06-显示类型转换和隐式类型转换.exe
+E:\code\c#_code\0505.Net基础班第一天\06-显示类型转换和隐式类型转换\obj\Debug\06-显示类型转换和隐式类型转换.pdb

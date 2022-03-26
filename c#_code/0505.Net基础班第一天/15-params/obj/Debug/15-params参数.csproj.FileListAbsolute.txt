@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\15-params\bin\Debug\15-params.exe.config
+E:\code\c#_code\0505.Net基础班第一天\15-params\bin\Debug\15-params.exe
+E:\code\c#_code\0505.Net基础班第一天\15-params\bin\Debug\15-params.pdb
+E:\code\c#_code\0505.Net基础班第一天\15-params\obj\Debug\15-params参数.csprojAssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\15-params\obj\Debug\15-params参数.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\15-params\obj\Debug\15-params.exe
+E:\code\c#_code\0505.Net基础班第一天\15-params\obj\Debug\15-params.pdb

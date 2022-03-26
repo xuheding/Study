@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\14-ref参数\bin\Debug\14-ref参数.exe.config
+E:\code\c#_code\0505.Net基础班第一天\14-ref参数\bin\Debug\14-ref参数.exe
+E:\code\c#_code\0505.Net基础班第一天\14-ref参数\bin\Debug\14-ref参数.pdb
+E:\code\c#_code\0505.Net基础班第一天\14-ref参数\obj\Debug\14-ref参数.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\14-ref参数\obj\Debug\14-ref参数.exe
+E:\code\c#_code\0505.Net基础班第一天\14-ref参数\obj\Debug\14-ref参数.pdb

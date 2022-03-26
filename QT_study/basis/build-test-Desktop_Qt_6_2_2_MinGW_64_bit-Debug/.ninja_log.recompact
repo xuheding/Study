@@ -1,0 +1,13 @@
+# ninja log v5
+5644	5816	6641035155528547	test.exe	324658131465d0d6
+6	248	6641049102521115	test_autogen/mocs_compilation.cpp	55ca000d49e83479
+6	248	6641049102521115	test_autogen/timestamp	55ca000d49e83479
+6	248	6641049102521115	E:/code/QT_study/build-test-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/test_autogen/timestamp	55ca000d49e83479
+3528	5643	6641035153828582	CMakeFiles/test.dir/mainwindow.cpp.obj	dae113a6e73a25a
+6	248	6641049102521115	E:/code/QT_study/build-test-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/test_autogen/mocs_compilation.cpp	55ca000d49e83479
+3514	5560	6641035148458563	CMakeFiles/test.dir/test_autogen/mocs_compilation.cpp.obj	827a90140400cede
+351	1057	6641049110761134	CMakeFiles/test.dir/test_autogen/EWIEGA46WW/qrc_Res.cpp.obj	a97faaeae6b81ff8
+3521	5629	6641035153688554	CMakeFiles/test.dir/main.cpp.obj	ccfe5fac46f7779
+2	596	6641049100021115	build.ninja	b7f06a20d1c4628d
+255	344	6641049103591122	test_autogen/EWIEGA46WW/qrc_Res.cpp	c60d5a26817704cc
+255	344	6641049103591122	E:/code/QT_study/build-test-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/test_autogen/EWIEGA46WW/qrc_Res.cpp	c60d5a26817704cc

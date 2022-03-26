@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\31-Dictionary\bin\Debug\31-Dictionary.exe.config
+E:\code\c#_code\0505.Net基础班第一天\31-Dictionary\bin\Debug\31-Dictionary.exe
+E:\code\c#_code\0505.Net基础班第一天\31-Dictionary\bin\Debug\31-Dictionary.pdb
+E:\code\c#_code\0505.Net基础班第一天\31-Dictionary\obj\Debug\31-Dictionary.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\31-Dictionary\obj\Debug\31-Dictionary.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\31-Dictionary\obj\Debug\31-Dictionary.exe
+E:\code\c#_code\0505.Net基础班第一天\31-Dictionary\obj\Debug\31-Dictionary.pdb

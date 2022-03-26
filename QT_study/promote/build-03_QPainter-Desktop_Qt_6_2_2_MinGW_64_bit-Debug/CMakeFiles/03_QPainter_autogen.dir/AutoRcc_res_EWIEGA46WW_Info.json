@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/03_QPainter_autogen",
+	"CMAKE_BINARY_DIR" : "E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/code/QT_study/promote/03_QPainter",
+	"CMAKE_SOURCE_DIR" : "E:/code/QT_study/promote/03_QPainter",
+	"INCLUDE_DIR" : "E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/03_QPainter_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/code/QT_study/promote/03_QPainter/images/1.jpg",
+		"E:/code/QT_study/promote/03_QPainter/images/1.png"
+	],
+	"LOCK_FILE" : "E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/03_QPainter_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/QT/6.2.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/03_QPainter_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/code/QT_study/promote/03_QPainter/res.qrc",
+	"VERBOSITY" : 0
+}

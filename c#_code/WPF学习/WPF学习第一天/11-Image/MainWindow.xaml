@@ -1,0 +1,16 @@
+﻿<Window x:Class="_11_Image.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_11_Image"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--Source为图片路径，Stretch中Fill表示全部填充（不保持纵横比）,Unifrom保持纵横比,Unifrom保持纵横比，超出边框的全部删掉     默认为Uniform-->
+        <!--StretchDirection中UpOnly表示内容小于父级的时候才会放大 DownOnly表示内容大于父级的时候才会缩小 Both表示调整来适应父级   默认为Both-->
+        <Image Name="imgPic" Source="1.jpg" Stretch="Uniform" StretchDirection="DownOnly"
+            HorizontalAlignment="Left" Height="181" Margin="107,114,0,0" VerticalAlignment="Top" Width="389" />
+        <Button Content="指定图像" HorizontalAlignment="Left" Height="47" Margin="574,183,0,0" VerticalAlignment="Top" Width="135" Click="Button_Click"/>
+    </Grid>
+</Window>

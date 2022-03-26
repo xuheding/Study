@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\01-My First Demo\bin\Debug\01-My First Demo.exe.config
+E:\code\c#_code\0505.Net基础班第一天\01-My First Demo\bin\Debug\01-My First Demo.exe
+E:\code\c#_code\0505.Net基础班第一天\01-My First Demo\bin\Debug\01-My First Demo.pdb
+E:\code\c#_code\0505.Net基础班第一天\01-My First Demo\obj\Debug\01-My First Demo.csprojAssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\01-My First Demo\obj\Debug\01-My First Demo.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\01-My First Demo\obj\Debug\01-My First Demo.exe
+E:\code\c#_code\0505.Net基础班第一天\01-My First Demo\obj\Debug\01-My First Demo.pdb

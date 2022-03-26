@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\08-随机数\bin\Debug\08-随机数.exe.config
+E:\code\c#_code\0505.Net基础班第一天\08-随机数\bin\Debug\08-随机数.exe
+E:\code\c#_code\0505.Net基础班第一天\08-随机数\bin\Debug\08-随机数.pdb
+E:\code\c#_code\0505.Net基础班第一天\08-随机数\obj\Debug\08-随机数.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\08-随机数\obj\Debug\08-随机数.exe
+E:\code\c#_code\0505.Net基础班第一天\08-随机数\obj\Debug\08-随机数.pdb

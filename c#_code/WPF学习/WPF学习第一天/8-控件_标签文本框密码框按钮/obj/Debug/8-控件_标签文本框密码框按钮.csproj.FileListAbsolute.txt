@@ -1,0 +1,15 @@
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\bin\Debug\8-控件_标签文本框密码框按钮.exe.config
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\bin\Debug\8-控件_标签文本框密码框按钮.exe
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\bin\Debug\8-控件_标签文本框密码框按钮.pdb
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\8-控件_标签文本框密码框按钮.csproj.AssemblyReference.cache
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\MainWindow.g.cs
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\App.g.cs
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\8-控件_标签文本框密码框按钮_MarkupCompile.cache
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\8-控件_标签文本框密码框按钮_MarkupCompile.lref
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\MainWindow.baml
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\8-控件_标签文本框密码框按钮.g.resources
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\_8_控件_标签文本框密码框按钮.Properties.Resources.resources
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\8-控件_标签文本框密码框按钮.csproj.GenerateResource.cache
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\8-控件_标签文本框密码框按钮.csproj.CoreCompileInputs.cache
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\8-控件_标签文本框密码框按钮.exe
+E:\code\c#_code\WPF学习\WPF学习第一天\8-控件_标签文本框密码框按钮\obj\Debug\8-控件_标签文本框密码框按钮.pdb

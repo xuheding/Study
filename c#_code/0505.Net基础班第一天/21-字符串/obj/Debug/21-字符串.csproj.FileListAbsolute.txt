@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\21-字符串\bin\Debug\21-字符串.exe.config
+E:\code\c#_code\0505.Net基础班第一天\21-字符串\bin\Debug\21-字符串.exe
+E:\code\c#_code\0505.Net基础班第一天\21-字符串\bin\Debug\21-字符串.pdb
+E:\code\c#_code\0505.Net基础班第一天\21-字符串\obj\Debug\21-字符串.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\21-字符串\obj\Debug\21-字符串.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\21-字符串\obj\Debug\21-字符串.exe
+E:\code\c#_code\0505.Net基础班第一天\21-字符串\obj\Debug\21-字符串.pdb

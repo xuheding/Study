@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\02-My Second Demo\bin\Debug\02-My Second Demo.exe.config
+E:\code\c#_code\0505.Net基础班第一天\02-My Second Demo\bin\Debug\02-My Second Demo.exe
+E:\code\c#_code\0505.Net基础班第一天\02-My Second Demo\bin\Debug\02-My Second Demo.pdb
+E:\code\c#_code\0505.Net基础班第一天\02-My Second Demo\obj\Debug\变量.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\02-My Second Demo\obj\Debug\02-My Second Demo.exe
+E:\code\c#_code\0505.Net基础班第一天\02-My Second Demo\obj\Debug\02-My Second Demo.pdb

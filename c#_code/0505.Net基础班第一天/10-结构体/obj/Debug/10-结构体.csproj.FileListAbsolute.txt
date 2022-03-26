@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\10-结构体\bin\Debug\10-结构体.exe.config
+E:\code\c#_code\0505.Net基础班第一天\10-结构体\bin\Debug\10-结构体.exe
+E:\code\c#_code\0505.Net基础班第一天\10-结构体\bin\Debug\10-结构体.pdb
+E:\code\c#_code\0505.Net基础班第一天\10-结构体\obj\Debug\10-结构体.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\10-结构体\obj\Debug\10-结构体.exe
+E:\code\c#_code\0505.Net基础班第一天\10-结构体\obj\Debug\10-结构体.pdb

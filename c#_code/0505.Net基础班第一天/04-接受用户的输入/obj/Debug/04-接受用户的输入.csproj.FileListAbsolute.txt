@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\04-接受用户的输入\bin\Debug\04-接受用户的输入.exe.config
+E:\code\c#_code\0505.Net基础班第一天\04-接受用户的输入\bin\Debug\04-接受用户的输入.exe
+E:\code\c#_code\0505.Net基础班第一天\04-接受用户的输入\bin\Debug\04-接受用户的输入.pdb
+E:\code\c#_code\0505.Net基础班第一天\04-接受用户的输入\obj\Debug\04-接受用户的输入.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\04-接受用户的输入\obj\Debug\04-接受用户的输入.exe
+E:\code\c#_code\0505.Net基础班第一天\04-接受用户的输入\obj\Debug\04-接受用户的输入.pdb

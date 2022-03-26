@@ -1,0 +1,10 @@
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\bin\Debug\19-命名空间.exe.config
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\bin\Debug\19-命名空间.exe
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\bin\Debug\19-命名空间.pdb
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\bin\Debug\18-构造函数.exe
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\bin\Debug\18-构造函数.pdb
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\bin\Debug\18-构造函数.exe.config
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\obj\Debug\19-命名空间.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\obj\Debug\19-命名空间.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\obj\Debug\19-命名空间.exe
+E:\code\c#_code\0505.Net基础班第一天\19-命名空间\obj\Debug\19-命名空间.pdb

@@ -1,0 +1,5 @@
+E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/03_QPainter.dir
+E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/03_QPainter_autogen_timestamp_deps.dir
+E:/code/QT_study/promote/build-03_QPainter-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/03_QPainter_autogen.dir

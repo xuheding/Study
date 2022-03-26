@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\17-静态和非静态\bin\Debug\17-静态和非静态.exe.config
+E:\code\c#_code\0505.Net基础班第一天\17-静态和非静态\bin\Debug\17-静态和非静态.exe
+E:\code\c#_code\0505.Net基础班第一天\17-静态和非静态\bin\Debug\17-静态和非静态.pdb
+E:\code\c#_code\0505.Net基础班第一天\17-静态和非静态\obj\Debug\17-静态和非静态.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\17-静态和非静态\obj\Debug\17-静态和非静态.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\17-静态和非静态\obj\Debug\17-静态和非静态.exe
+E:\code\c#_code\0505.Net基础班第一天\17-静态和非静态\obj\Debug\17-静态和非静态.pdb

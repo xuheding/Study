@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\23-继承\bin\Debug\23-继承.exe.config
+E:\code\c#_code\0505.Net基础班第一天\23-继承\bin\Debug\23-继承.exe
+E:\code\c#_code\0505.Net基础班第一天\23-继承\bin\Debug\23-继承.pdb
+E:\code\c#_code\0505.Net基础班第一天\23-继承\obj\Debug\23-继承.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\23-继承\obj\Debug\23-继承.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\23-继承\obj\Debug\23-继承.exe
+E:\code\c#_code\0505.Net基础班第一天\23-继承\obj\Debug\23-继承.pdb

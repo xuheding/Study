@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\41-接口\bin\Debug\41-接口.exe.config
+E:\code\c#_code\0505.Net基础班第一天\41-接口\bin\Debug\41-接口.exe
+E:\code\c#_code\0505.Net基础班第一天\41-接口\bin\Debug\41-接口.pdb
+E:\code\c#_code\0505.Net基础班第一天\41-接口\obj\Debug\41-接口.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\41-接口\obj\Debug\41-接口.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\41-接口\obj\Debug\41-接口.exe
+E:\code\c#_code\0505.Net基础班第一天\41-接口\obj\Debug\41-接口.pdb

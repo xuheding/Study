@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\24-里氏转换\bin\Debug\24-里氏转换.exe.config
+E:\code\c#_code\0505.Net基础班第一天\24-里氏转换\bin\Debug\24-里氏转换.exe
+E:\code\c#_code\0505.Net基础班第一天\24-里氏转换\bin\Debug\24-里氏转换.pdb
+E:\code\c#_code\0505.Net基础班第一天\24-里氏转换\obj\Debug\24-里氏转换.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\24-里氏转换\obj\Debug\24-里氏转换.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\24-里氏转换\obj\Debug\24-里氏转换.exe
+E:\code\c#_code\0505.Net基础班第一天\24-里氏转换\obj\Debug\24-里氏转换.pdb

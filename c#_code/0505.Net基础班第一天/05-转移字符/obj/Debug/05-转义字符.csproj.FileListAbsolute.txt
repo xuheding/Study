@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\05-转移字符\bin\Debug\05-转移字符.exe.config
+E:\code\c#_code\0505.Net基础班第一天\05-转移字符\bin\Debug\05-转移字符.exe
+E:\code\c#_code\0505.Net基础班第一天\05-转移字符\bin\Debug\05-转移字符.pdb
+E:\code\c#_code\0505.Net基础班第一天\05-转移字符\obj\Debug\05-转义字符.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\05-转移字符\obj\Debug\05-转移字符.exe
+E:\code\c#_code\0505.Net基础班第一天\05-转移字符\obj\Debug\05-转移字符.pdb
+E:\code\c#_code\0505.Net基础班第一天\05-转移字符\obj\Debug\05-转义字符.csproj.AssemblyReference.cache

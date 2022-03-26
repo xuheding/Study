@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\16-类的基本语法\bin\Debug\16-类的基本语法.exe.config
+E:\code\c#_code\0505.Net基础班第一天\16-类的基本语法\bin\Debug\16-类的基本语法.exe
+E:\code\c#_code\0505.Net基础班第一天\16-类的基本语法\bin\Debug\16-类的基本语法.pdb
+E:\code\c#_code\0505.Net基础班第一天\16-类的基本语法\obj\Debug\16-类的基本语法.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\16-类的基本语法\obj\Debug\16-类的基本语法.exe
+E:\code\c#_code\0505.Net基础班第一天\16-类的基本语法\obj\Debug\16-类的基本语法.pdb

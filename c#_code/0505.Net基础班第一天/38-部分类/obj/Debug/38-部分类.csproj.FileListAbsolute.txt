@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\38-部分类\bin\Debug\38-部分类.exe.config
+E:\code\c#_code\0505.Net基础班第一天\38-部分类\bin\Debug\38-部分类.exe
+E:\code\c#_code\0505.Net基础班第一天\38-部分类\bin\Debug\38-部分类.pdb
+E:\code\c#_code\0505.Net基础班第一天\38-部分类\obj\Debug\38-部分类.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\38-部分类\obj\Debug\38-部分类.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\38-部分类\obj\Debug\38-部分类.exe
+E:\code\c#_code\0505.Net基础班第一天\38-部分类\obj\Debug\38-部分类.pdb

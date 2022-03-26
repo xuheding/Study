@@ -1,0 +1,27 @@
+﻿<Window x:Class="MDJ.DetectSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        WindowStartupLocation="CenterScreen"
+        
+        xmlns:local="clr-namespace:MDJ"
+        mc:Ignorable="d"
+        Title="检测参数设置" Height="150" Width="300" Background="#DDDDDD">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Slider Name="Acc" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Left" Height="23" Margin="10,0,0,0" VerticalAlignment="Center" Width="100" Maximum="1" LargeChange="0.1" SmallChange="0.01" TickFrequency="0.1" Value="0.66" />
+
+        <Label Content="检测精度:" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Right" HorizontalContentAlignment="Right" Height="23" Margin="0,0,20,0" VerticalAlignment="Center" Width="150" />
+        <Button Grid.Row="1" Grid.ColumnSpan="2"  Content="确认设置" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="200" Click="paramSetting"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01_FirstProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_FirstProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_FirstProject-Debug-57f36e09291f9ba874dd.json",
+					"name" : "01_FirstProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_FirstProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_FirstProject_autogen-Debug-7586f196b8cde85a1f21.json",
+					"name" : "01_FirstProject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_FirstProject_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_FirstProject_autogen_timestamp_deps-Debug-e22b423b10713d8426f1.json",
+					"name" : "01_FirstProject_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/code/QT_study/build-01_FirstProject-Desktop_Qt_6_2_2_MinGW_64_bit-Debug",
+		"source" : "E:/code/QT_study/01_FirstProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

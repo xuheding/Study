@@ -1,0 +1,5 @@
+E:/code/QT_study/build-04_Layout-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/04_Layout.dir
+E:/code/QT_study/build-04_Layout-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/code/QT_study/build-04_Layout-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/code/QT_study/build-04_Layout-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/04_Layout_autogen_timestamp_deps.dir
+E:/code/QT_study/build-04_Layout-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/04_Layout_autogen.dir

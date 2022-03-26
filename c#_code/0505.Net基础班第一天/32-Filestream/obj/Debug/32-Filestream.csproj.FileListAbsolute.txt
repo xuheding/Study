@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\32-Filestream\obj\Debug\32-Filestream.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\32-Filestream\obj\Debug\32-Filestream.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\32-Filestream\bin\Debug\32-Filestream.exe.config
+E:\code\c#_code\0505.Net基础班第一天\32-Filestream\bin\Debug\32-Filestream.exe
+E:\code\c#_code\0505.Net基础班第一天\32-Filestream\bin\Debug\32-Filestream.pdb
+E:\code\c#_code\0505.Net基础班第一天\32-Filestream\obj\Debug\32-Filestream.exe
+E:\code\c#_code\0505.Net基础班第一天\32-Filestream\obj\Debug\32-Filestream.pdb

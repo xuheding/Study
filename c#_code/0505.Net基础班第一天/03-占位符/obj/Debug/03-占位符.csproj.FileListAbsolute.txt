@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\03-占位符\bin\Debug\03-占位符.exe.config
+E:\code\c#_code\0505.Net基础班第一天\03-占位符\bin\Debug\03-占位符.exe
+E:\code\c#_code\0505.Net基础班第一天\03-占位符\bin\Debug\03-占位符.pdb
+E:\code\c#_code\0505.Net基础班第一天\03-占位符\obj\Debug\03-占位符.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\03-占位符\obj\Debug\03-占位符.exe
+E:\code\c#_code\0505.Net基础班第一天\03-占位符\obj\Debug\03-占位符.pdb
+E:\code\c#_code\0505.Net基础班第一天\03-占位符\obj\Debug\03-占位符.csproj.AssemblyReference.cache

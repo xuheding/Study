@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\33-多态\obj\Debug\33-多态.csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\33-多态\obj\Debug\33-多态.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\33-多态\bin\Debug\33-多态.exe.config
+E:\code\c#_code\0505.Net基础班第一天\33-多态\bin\Debug\33-多态.exe
+E:\code\c#_code\0505.Net基础班第一天\33-多态\bin\Debug\33-多态.pdb
+E:\code\c#_code\0505.Net基础班第一天\33-多态\obj\Debug\33-多态.exe
+E:\code\c#_code\0505.Net基础班第一天\33-多态\obj\Debug\33-多态.pdb

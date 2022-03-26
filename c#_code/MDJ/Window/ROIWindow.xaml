@@ -1,0 +1,35 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MDJ"
+        WindowStartupLocation="CenterScreen"
+    
+        xmlns:HalconDotNet="clr-namespace:HalconDotNet;assembly=halcondotnet" x:Class="MDJ.ROIWindow"
+        mc:Ignorable="d"
+        Title="ROI设置" Height="450" Width="700" Background="Black">
+    <Grid Height="Auto"  Width="Auto">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+        <Image/>
+        <Grid x:Name="HalconGrid">
+            <HalconDotNet:HWindowControlWPF Grid.Row="0" Grid.Column="0"  ImagePart="0 0 3000 2000" x:Name="HalconWindow" HorizontalAlignment="Left" Height="auto" Width="574"/>
+        </Grid>
+        <Grid Grid.Column="1" Background="#999999">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Grid.Column="0" Margin="10,15,10,15" Click="loadButtonClick" Content="相机取图" Style="{StaticResource Style.OkOperationButton}"/>
+            <Button Grid.Row="1" Grid.Column="0" Margin="10,15,10,15" Click="resetButtonClick" Content="重置模板" Style="{StaticResource Style.OkOperationButton}"/>
+            <Button Grid.Row="2" Grid.Column="0" Margin="10,15,10,15" Click="confirmButtonClick" Content="确认模板" Style="{StaticResource Style.OkOperationButton}"/>
+
+
+        </Grid>
+    </Grid>
+</Window>

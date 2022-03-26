@@ -1,0 +1,17 @@
+﻿<Window x:Class="test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test"
+        mc:Ignorable="d" FontSize="30"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="tbName" Text="{Binding Value,UpdateSourceTrigger=PropertyChanged}" Foreground="{Binding ValueColor}"
+                 HorizontalAlignment="Left" Height="33" Margin="225,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="149"/>
+        <Button Content="Button" Command="{Binding ValueCommand}"
+                HorizontalAlignment="Left" Height="41" Margin="409,61,0,0" VerticalAlignment="Top" Width="150" />
+        <TextBlock HorizontalAlignment="Left" Height="45" Margin="102,63,0,0" Text="用户名" TextWrapping="Wrap" VerticalAlignment="Top" Width="94"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+# ninja log v5
+682	2607	6638702231852500	CMakeFiles/02_QtSource.dir/main.cpp.obj	813a043d06413ff
+5	194	6638725622189320	E:/code/QT_study/build-02_QtSource-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/02_QtSource_autogen/mocs_compilation.cpp	834891b1f36eb0a
+211	2089	6638724751455592	CMakeFiles/02_QtSource.dir/mainwindow.cpp.obj	13932f681f1cdfaa
+5	194	6638725622189320	02_QtSource_autogen/timestamp	834891b1f36eb0a
+5	194	6638725622189320	E:/code/QT_study/build-02_QtSource-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/02_QtSource_autogen/timestamp	834891b1f36eb0a
+5	194	6638725622189320	02_QtSource_autogen/mocs_compilation.cpp	834891b1f36eb0a
+688	2399	6638702230055173	CMakeFiles/02_QtSource.dir/02_QtSource_autogen/mocs_compilation.cpp.obj	e299014b25ea4cd
+2090	2277	6638724753265590	02_QtSource.exe	a584daad93def8ef
+2	627	6638725636149296	build.ninja	6e9683ff8425bb11
+198	289	6638725623099068	02_QtSource_autogen/EWIEGA46WW/qrc_resource.cpp	c0aa3ae0b72df46
+198	289	6638725623099068	E:/code/QT_study/build-02_QtSource-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/02_QtSource_autogen/EWIEGA46WW/qrc_resource.cpp	c0aa3ae0b72df46
+296	958	6638725629849058	CMakeFiles/02_QtSource.dir/02_QtSource_autogen/EWIEGA46WW/qrc_resource.cpp.obj	e300f46ccf7cf414

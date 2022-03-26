@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\11-数组\bin\Debug\11-数组.exe.config
+E:\code\c#_code\0505.Net基础班第一天\11-数组\bin\Debug\11-数组.exe
+E:\code\c#_code\0505.Net基础班第一天\11-数组\bin\Debug\11-数组.pdb
+E:\code\c#_code\0505.Net基础班第一天\11-数组\obj\Debug\11-数组.csprojAssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\11-数组\obj\Debug\11-数组.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\11-数组\obj\Debug\11-数组.exe
+E:\code\c#_code\0505.Net基础班第一天\11-数组\obj\Debug\11-数组.pdb

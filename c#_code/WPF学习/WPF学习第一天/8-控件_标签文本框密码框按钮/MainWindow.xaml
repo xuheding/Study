@@ -1,0 +1,39 @@
+﻿<Window x:Class="_8_控件_标签文本框密码框按钮.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_8_控件_标签文本框密码框按钮"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="450">
+    <Grid Margin="0,0,0,0">
+        <!--选中某个控件或者属性，按F12可以进行源码查看-->
+        
+        <!--
+        如果想在按钮的内容显示进行修改
+        1.Content属性设置文本 2.写在标记之间 3.在button里面放一个控件label
+        -->
+        <!--isDefault代表按回车就会执行该按钮-->
+        <Button  HorizontalAlignment="Left" Height="42" Margin="116,150,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click" IsDefault="True">
+            <Label  Content="登入" HorizontalAlignment="Left"  VerticalAlignment="Top" FontSize="15"/>
+        </Button>
+        <Label Content="账号：" HorizontalAlignment="Left" Height="62" Margin="106,48,0,0" VerticalAlignment="Top" Width="115" FontSize="20"/>
+        <!--TextWrapping表示能否换行-->
+        <TextBox Name="txtUName" HorizontalAlignment="Left" Height="22" Margin="212,56,0,0" TextWrapping="NoWrap" Text="admin" VerticalAlignment="Top" Width="119"/>
+        <Label Content="密码：" HorizontalAlignment="Left" Height="51" Margin="106,94,0,0" VerticalAlignment="Top" Width="69" FontSize="20"/>
+        <!--其中Password代表密码，PasswordChar代表隐藏密码使用的字符-->
+        <PasswordBox Name="txtUPwd" Password="12345" PasswordChar="*"
+            HorizontalAlignment="Left" Height="25" Margin="212,94,0,0" VerticalAlignment="Top" Width="119"/>
+        
+        <!--可以通过Background设置颜色,BorderBrush设置边框颜色，BorderThickness设置边框粗细  Foreground设置字体的颜色-->
+        <Button  Content="取消"  BorderBrush="Red" BorderThickness="2" Foreground="Green"
+                HorizontalAlignment="Left" Height="42" Margin="256,150,0,0" VerticalAlignment="Top" Width="75" FontSize="15">
+            <!--还可以让按钮加上图片，就是在Button的background里面添加ImageBrush-->
+            <Button.Background>
+                <ImageBrush ImageSource="img/1.jpg">
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+        <!--后期一般通过去封装一个button的统一样式来使用-->
+    </Grid>
+</Window>

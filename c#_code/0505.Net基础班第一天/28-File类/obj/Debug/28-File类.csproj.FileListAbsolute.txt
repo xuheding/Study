@@ -1,0 +1,6 @@
+E:\code\c#_code\0505.Net基础班第一天\28-File类\bin\Debug\28-File类.exe.config
+E:\code\c#_code\0505.Net基础班第一天\28-File类\bin\Debug\28-File类.exe
+E:\code\c#_code\0505.Net基础班第一天\28-File类\bin\Debug\28-File类.pdb
+E:\code\c#_code\0505.Net基础班第一天\28-File类\obj\Debug\28-File类.csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\28-File类\obj\Debug\28-File类.exe
+E:\code\c#_code\0505.Net基础班第一天\28-File类\obj\Debug\28-File类.pdb

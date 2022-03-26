@@ -1,0 +1,7 @@
+E:\code\c#_code\0505.Net基础班第一天\40-重写父类的ToString()\bin\Debug\40-重写父类的ToString().exe.config
+E:\code\c#_code\0505.Net基础班第一天\40-重写父类的ToString()\bin\Debug\40-重写父类的ToString().exe
+E:\code\c#_code\0505.Net基础班第一天\40-重写父类的ToString()\bin\Debug\40-重写父类的ToString().pdb
+E:\code\c#_code\0505.Net基础班第一天\40-重写父类的ToString()\obj\Debug\40-重写父类的ToString().csproj.AssemblyReference.cache
+E:\code\c#_code\0505.Net基础班第一天\40-重写父类的ToString()\obj\Debug\40-重写父类的ToString().csproj.CoreCompileInputs.cache
+E:\code\c#_code\0505.Net基础班第一天\40-重写父类的ToString()\obj\Debug\40-重写父类的ToString().exe
+E:\code\c#_code\0505.Net基础班第一天\40-重写父类的ToString()\obj\Debug\40-重写父类的ToString().pdb

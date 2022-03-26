@@ -1,0 +1,5 @@
+E:/code/QT_study/build-06_TreeWidget-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/06_TreeWidget.dir
+E:/code/QT_study/build-06_TreeWidget-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/code/QT_study/build-06_TreeWidget-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/code/QT_study/build-06_TreeWidget-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/06_TreeWidget_autogen_timestamp_deps.dir
+E:/code/QT_study/build-06_TreeWidget-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/06_TreeWidget_autogen.dir
