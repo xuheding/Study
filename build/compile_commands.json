@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/xuheding/share/linux_improve_study/7.3_cas_queue/build",
+  "command": "/usr/local/bin/gcc  -I/home/xuheding/share/linux_improve_study/7.3_cas_queue  -g   -o CMakeFiles/1_test_i++.dir/1_test_i++.c.o   -c /home/xuheding/share/linux_improve_study/7.3_cas_queue/1_test_i++.c",
+  "file": "/home/xuheding/share/linux_improve_study/7.3_cas_queue/1_test_i++.c"
+},
+{
+  "directory": "/home/xuheding/share/linux_improve_study/7.3_cas_queue/build",
+  "command": "/usr/local/bin/g++   -I/home/xuheding/share/linux_improve_study/7.3_cas_queue   -O0 -Wall -g   -std=gnu++14 -o CMakeFiles/3_test_mutex_spin_lock.dir/3_test_mutex_spin_lock.cpp.o -c /home/xuheding/share/linux_improve_study/7.3_cas_queue/3_test_mutex_spin_lock.cpp",
+  "file": "/home/xuheding/share/linux_improve_study/7.3_cas_queue/3_test_mutex_spin_lock.cpp"
+},
+{
+  "directory": "/home/xuheding/share/linux_improve_study/7.3_cas_queue/build",
+  "command": "/usr/local/bin/gcc  -I/home/xuheding/share/linux_improve_study/7.3_cas_queue  -g   -o CMakeFiles/2_test_i++_threads.dir/2_test_i++_threads.c.o   -c /home/xuheding/share/linux_improve_study/7.3_cas_queue/2_test_i++_threads.c",
+  "file": "/home/xuheding/share/linux_improve_study/7.3_cas_queue/2_test_i++_threads.c"
+},
+{
+  "directory": "/home/xuheding/share/linux_improve_study/7.3_cas_queue/build",
+  "command": "/usr/local/bin/g++   -I/home/xuheding/share/linux_improve_study/7.3_cas_queue   -O0 -Wall -g   -std=gnu++14 -o CMakeFiles/4_test_lock_free_queue.dir/4_test_lock_free_queue.cpp.o -c /home/xuheding/share/linux_improve_study/7.3_cas_queue/4_test_lock_free_queue.cpp",
+  "file": "/home/xuheding/share/linux_improve_study/7.3_cas_queue/4_test_lock_free_queue.cpp"
+}
+]

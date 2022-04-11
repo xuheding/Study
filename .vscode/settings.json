@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "optional": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "streambuf": "cpp",
+        "thread": "cpp",
+        "fstream": "cpp",
+        "cmath": "cpp"
+    }
+}
